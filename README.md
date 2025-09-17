@@ -1,4 +1,4 @@
-<h1 align="left">Fala aí 👋, eu sou o Ian</h1>
+<h1 align="left">Oi, eu sou o Ian</h1>
 
 ###
 
