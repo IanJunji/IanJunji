@@ -1,63 +1,30 @@
-<h1 align="left">Oi, eu sou o Ian</h1>
+# Olá, eu sou o Ian 👋
 
-###
+Desenvolvo aplicações web, APIs e ferramentas para equipes de engenharia. Atualmente, sou estagiário na Canhedo Beppu e estudo Engenharia de Software na FIAP e Engenharia da Computação na UNIVESP.
 
-<p align="left">
-  🚀 Estudante de <b>Engenharia de Software (FIAP)</b> e <b>Engenharia da Computação (UNIVESP)</b><br>
-  💼 Estagiário na <b>Canhedo Beppu Engenheiros Associados Ltda</b>, desenvolvendo automações para a engenharia civil<br>
-  🧑‍💻 Crio <b>scripts e programas executáveis</b> em Python e C# para otimizar processos<br>
-  🎯 Sempre buscando aprender novas tecnologias e aplicar lógica de programação para resolver problemas reais
-</p>
+Gosto de transformar problemas do dia a dia em soluções que facilitem o trabalho das pessoas — de sistemas web a plugins para CAD.
 
-###
+## O que desenvolvo
 
-<h2 align="left">Sobre mim</h2>
+- **Aplicações web:** interfaces, APIs, bancos de dados e regras de negócio para sistemas internos.
+- **Plugins CAD:** extensões em C#/.NET para apoiar atividades de engenharia, com recursos de geolocalização e processamento geométrico.
+- **Automações:** ferramentas para reduzir tarefas repetitivas e apoiar a operação de serviços.
 
-###
+Grande parte dos meus projetos profissionais está em repositórios privados da empresa. Aqui no meu perfil você encontra principalmente projetos acadêmicos e estudos.
 
-<p align="left">
-  ✨ Curto transformar tarefas repetitivas em soluções automatizadas<br>
-  📚 Atualmente aprendendo mais sobre <b>boas práticas de programação</b>, <b>engenharia de software</b> e <b>automação</b><br>
-  🎯 Objetivo: me tornar um desenvolvedor completo e criar impacto através da tecnologia<br>
-  🌍 Idiomas: Português (nativo), Inglês (intermediário) e Espanhol (intermediário)<br>
-  🎲 Fun fact: curto tanto engenharia quanto games (e sempre busco unir lógica com criatividade ⚡)
-</p>
+## Tecnologias e ferramentas
 
-###
+**Frontend:** React, TypeScript e JavaScript  
+**Backend:** C#/.NET, Node.js, Python e FastAPI  
+**Dados e integração:** PostgreSQL e APIs REST  
+**Ferramentas:** Git e GitHub
 
-<h2 align="left">Tecnologias e ferramentas</h2>
+## About me
 
-###
+I'm Ian, a software development intern and an engineering student based in Brazil. I build web applications, APIs and CAD plugins that help engineering teams solve practical problems.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
-  <img width="12" />
-</div>
+I work across frontend, backend and databases, using technologies such as React, TypeScript, C#/.NET, Python and PostgreSQL. Much of my professional work is in private company repositories; the public repositories here mainly contain academic projects and studies.
 
-###
+## Contato · Contact
 
-<h2 align="left">Vamos nos conectar?</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ian-junji-maluvayshi-matsushita-03a735366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/IanJunji" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ianmatsushita@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ian-junji-maluvayshi-matsushita-03a735366/) · [E-mail](mailto:ianmatsushita@gmail.com)
