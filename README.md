@@ -1,30 +1,22 @@
-# Olá, eu sou o Ian 👋
+# Software Engineering | Web & CAD
 
-Desenvolvo aplicações web, APIs e ferramentas para equipes de engenharia. Atualmente, sou estagiário na Canhedo Beppu e estudo Engenharia de Software na FIAP e Engenharia da Computação na UNIVESP.
+Software development intern at Canhedo Beppu, building web applications, APIs and tools for engineering teams. Studying Software Engineering at FIAP and Computer Engineering at UNIVESP, in Brazil.
 
-Gosto de transformar problemas do dia a dia em soluções que facilitem o trabalho das pessoas — de sistemas web a plugins para CAD.
+## What I build
 
-## O que desenvolvo
+- **Web applications:** user interfaces, APIs, databases and business logic for internal systems.
+- **CAD plugins:** C#/.NET extensions that support engineering workflows, including geolocation and geometric processing.
+- **Automation tools:** solutions that reduce repetitive work and support service operations.
 
-- **Aplicações web:** interfaces, APIs, bancos de dados e regras de negócio para sistemas internos.
-- **Plugins CAD:** extensões em C#/.NET para apoiar atividades de engenharia, com recursos de geolocalização e processamento geométrico.
-- **Automações:** ferramentas para reduzir tarefas repetitivas e apoiar a operação de serviços.
+Much of my professional work is in private company repositories. The public repositories on this profile mainly contain academic projects and studies.
 
-Grande parte dos meus projetos profissionais está em repositórios privados da empresa. Aqui no meu perfil você encontra principalmente projetos acadêmicos e estudos.
+## Technologies and tools
 
-## Tecnologias e ferramentas
+**Frontend:** React, TypeScript and JavaScript  
+**Backend:** C#/.NET, Node.js, Python and FastAPI  
+**Data and integration:** PostgreSQL and REST APIs  
+**Tools:** Git and GitHub
 
-**Frontend:** React, TypeScript e JavaScript  
-**Backend:** C#/.NET, Node.js, Python e FastAPI  
-**Dados e integração:** PostgreSQL e APIs REST  
-**Ferramentas:** Git e GitHub
+## Contact
 
-## About me
-
-I'm Ian, a software development intern and an engineering student based in Brazil. I build web applications, APIs and CAD plugins that help engineering teams solve practical problems.
-
-I work across frontend, backend and databases, using technologies such as React, TypeScript, C#/.NET, Python and PostgreSQL. Much of my professional work is in private company repositories; the public repositories here mainly contain academic projects and studies.
-
-## Contato · Contact
-
-[LinkedIn](https://www.linkedin.com/in/ian-junji-maluvayshi-matsushita-03a735366/) · [E-mail](mailto:ianmatsushita@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ian-junji-maluvayshi-matsushita-03a735366/) · [Email](mailto:ianmatsushita@gmail.com)
